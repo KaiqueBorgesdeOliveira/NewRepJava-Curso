@@ -1,4 +1,6 @@
-To-Do List - Projeto em Java
+To-Do-List
+
+Projeto em Java
 
 Este é um simples projeto de lista de tarefas (To-Do List) implementado em Java. 
 
